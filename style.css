@@ -1,0 +1,54 @@
+body {
+    width: 1000px;
+}
+
+h1, h2 {
+    color: darkblue;
+}
+
+#title-color {
+    color: blue;
+    font-weight: 100;
+}
+
+header>div {
+    display: flex;
+}
+
+.information-data {
+    margin: 0px;
+    padding: 10px 200px 5px 0px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.title-border{
+    border-bottom: 1px solid grey;
+}
+
+.div-expirience {
+    display: flex;
+}
+
+.date-div {
+    width: 150px;
+}
+
+.margin-div {
+    margin: 0px 40px;
+}
+
+h3 {
+    margin: 0px 0px 10px;
+}
+
+#p-style{
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px 0px 0px 15px;
+}
